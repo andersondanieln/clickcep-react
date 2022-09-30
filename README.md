@@ -1,3 +1,7 @@
-# ClickCEP
+# Click CEP
+Simples interface em React que interage com uma API buscando informações através do CEP fornecido.
 
-Aplicação criada em React para consumir a API da VIACEP.
+------------
+
+
+![](https://raw.githubusercontent.com/anderhex/clickcep-react/main/userIterface.gif)
